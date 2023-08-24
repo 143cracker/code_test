@@ -1,0 +1,4 @@
+1. First you install python in your system.
+2. i have allredy created virtual enviroment or if you want create virtual enviroment  you can create   first install  virtualenv package this command pip install ->virtualenv .
+3.By this commond use for python -m venv "virtual enviroment name".
+4.Then activate virtual enviroment and then go project directory install all dependencies by this command--> pip install -r requirements.txt
